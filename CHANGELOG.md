@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v0.1.0 (2024-10-01)
+
+### Documentation
+
+* docs(mylibrary): I added some documentation ([`448e394`](https://github.com/YoenCorbel/mylibrary/commit/448e39425e6cb4c8dd555b2280aa83636d90a11b))
+
+### Feature
+
+* feat(mylibrary): added a new function ([`a235bfe`](https://github.com/YoenCorbel/mylibrary/commit/a235bfe3ba98fb61caf9106e67808926da0e7a40))
+
 ## v0.0.1 (2024-10-01)
 
 ### Fix
