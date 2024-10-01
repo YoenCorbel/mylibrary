@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-10-01)
+
+### Breaking
+
+* feat: update the code marjorly
+
+BREAKING CHANGE: hello_world2 function removed it cannot be usedd ([`de9fff3`](https://github.com/YoenCorbel/mylibrary/commit/de9fff33892d8bf97f5a9f6e1de80d8d016eb198))
+
 ## v0.1.0 (2024-10-01)
 
 ### Documentation
